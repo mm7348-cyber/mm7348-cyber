@@ -1,19 +1,14 @@
-# Hi, I'm Devangi Mehta 👋
+# Devangi Mehta 
 
-🎓 Business Analytics Graduate | MBA  
+Data Analyst | Business Analytics Graduate | MBA  
 📍 India | Open to Data Analyst & Business Analyst roles  
 
-👩‍💼 About Me
+About Me
 
-I'm an aspiring data analyst with a background in MBA(Business Analytics), with hands-on experience in sales and a strong foundation in data analytics through coursework and self-driven projects. A science background that developed strong analytical thinking, now applied to business data.
-
-- 🔍 Currently seeking entry-level **Data Analyst / Business Analyst** opportunities
-- 📊 Passionate about finding the story behind the numbers
-- 📚 Completed a Data Analytics course covering SQL, Power BI, Python, and EDA
-- 💼 Prior experience at **Coding Ninjas** in sales & business development
+MBA graduate specialising in Business Analytics, combining a rigorous science foundation with hands-on data expertise. I translate raw data into decisions — through SQL queries, Power BI dashboards, Python analyses, and the business acumen built from frontline sales experience in Coding Ninjas. I thrive where numbers meet strategy.
 
 
-🛠️ Skills & Tools
+Skills & Tools
 
 | Category | Tools |
 |----------|-------|
@@ -24,25 +19,35 @@ I'm an aspiring data analyst with a background in MBA(Business Analytics), with 
 | Soft Skills | Communication, Analytical Thinking, Problem Solving |
 
 
+
+
+
+Education
+MBA — Business Analytics Specialisation
+Data Analytics Certification — SQL · Power BI · Python · EDA
+Bachelor of Science — Quantitative & Analytical Foundation
+Actively seeking entry-level Data Analyst and Business Analyst roles where I can turn data into meaningful business outcomes. Open to opportunities across India and remote.
+
+
 📂 Projects
 
-🏦 [Bank Customer Segmentation & Transaction Analysis](https://github.com/mm7348-cyber/bank-customer-analysis)
+[Bank Customer Segmentation & Transaction Analysis](https://github.com/mm7348-cyber/bank-customer-analysis)
 Built a 5-page Power BI dashboard analyzing 879K+ customers and ₹1.64bn in transactions; RFM analysis revealed loyal customers spend 2x more than new customers.  
 **Tools:** Power BI
 
 
-📉 [Telecom Customer Churn Analysis](https://github.com/mm7348-cyber/telecom-churn-analysis)
+[Telecom Customer Churn Analysis](https://github.com/mm7348-cyber/telecom-churn-analysis)
 Analyzed 7,032 customer records using SQL to identify key churn drivers — 26% churn rate with month-to-month customers as highest risk segment.  
 **Tools:** MySQL
 
----
 
-🌍 [Air Quality Analysis](https://github.com/mm7348-cyber/air-quality-analysis)
+
+[Air Quality Analysis](https://github.com/mm7348-cyber/air-quality-analysis)
 Analyzed air quality data across regions to identify pollution trends and high-risk areas.  
 **Tools:** Python, Pandas, Matplotlib
 
 
-📈 Currently Learning
+Currently Learning
 - Python for Data Analysis (Pandas, NumPy)
 - Advanced SQL (Window Functions, CTEs)
 - Storytelling with Data
